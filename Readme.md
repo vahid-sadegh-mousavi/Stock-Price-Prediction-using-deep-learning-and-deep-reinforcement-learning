@@ -1,5 +1,8 @@
 # Stock Price Prediction using deep learning and deep reinforcement learning
 
+![Project Image](project%20image.jpg)
+
+
 This project implements a stock price prediction model using deep learning and deep reinforcement learning. The goal is to predict stock prices and evaluate the model's performance using different metrics.
 
 ## Model Types
@@ -26,11 +29,11 @@ The following plots are generated as part of the analysis:
 
 1. Cumulative rewards over epochs
 
-  ![Project Image](cumulative reward.png)
+  ![Project Image](cumulative%20reward.png)
 
 2. Maximum Q-value over epochs
 
-  ![Project Image](max Q values.png)
+  ![Project Image](max%20Q%20values.png)
 
 3. Table with headers:
    - Date
@@ -39,11 +42,11 @@ The following plots are generated as part of the analysis:
    - Actual vs. Predicted Close Difference
    - Close Next Day (using heatmap)
 
-  ![Project Image](heat map.png)
+  ![Project Image](heat%20map.png)
 
 4. Actual vs. predicted price plot with buy/sell decisions
 
-  ![Project Image](actual price vs predicted price.png)
+  ![Project Image](actual%20price%20vs%20predicted%20price.png)
 
 Project Description
 This project focuses on predicting stock prices using advanced machine learning techniques, specifically neural networks and reinforcement learning. The primary aim is to develop a robust model that can accurately forecast future stock prices based on historical data.
