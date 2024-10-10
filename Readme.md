@@ -18,18 +18,32 @@ This project implements a stock price prediction model using deep learning and d
 - **Return:** 1478.1928
 - **Return Of Maximum Drawdown (ROMAD):** 8.0426
 
+  ![Project Image](metrics.png)
+
+
 ## Outputs
 The following plots are generated as part of the analysis:
 
 1. Cumulative rewards over epochs
+
+  ![Project Image](cumulative reward.png)
+
 2. Maximum Q-value over epochs
+
+  ![Project Image](max Q values.png)
+
 3. Table with headers:
    - Date
    - Close
    - Predicted Close
    - Actual vs. Predicted Close Difference
    - Close Next Day (using heatmap)
+
+  ![Project Image](heat map.png)
+
 4. Actual vs. predicted price plot with buy/sell decisions
+
+  ![Project Image](actual price vs predicted price.png)
 
 Project Description
 This project focuses on predicting stock prices using advanced machine learning techniques, specifically neural networks and reinforcement learning. The primary aim is to develop a robust model that can accurately forecast future stock prices based on historical data.
