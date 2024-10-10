@@ -48,7 +48,7 @@ The following plots are generated as part of the analysis:
 
   ![Project Image](actual%20price%20vs%20predicted%20price.png)
 
-Project Description
+## Project Description
 This project focuses on predicting stock prices using advanced machine learning techniques, specifically neural networks and reinforcement learning. The primary aim is to develop a robust model that can accurately forecast future stock prices based on historical data.
 
 Key Features:
